@@ -26,7 +26,7 @@ Label: 0 (approved), 1 (rejected)
 3. Model Comparison: Compare at least four models, justifying the selection based on cost functions.
 
 ## Usage :-
-1.	Clone the repository: Git clone :- https://github.com/RavinaKarnik/Med-Tour-easy-project
+1.	Clone the repository: Git clone :- https://github.com/RavinaKarnik/Credit-Card-Approval-Prediction-with-Enhanced-Accuracy-using-Machine-Learning-Models
 2.	Open the Files which is our dataset.
 3.	Navigate to the respective reports to access the analysis and insights.
 4.	Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
