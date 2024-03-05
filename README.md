@@ -1,5 +1,8 @@
 # Credit-Card-Approval-Prediction-with-Enhanced-Accuracy-using-Machine-Learning-Models
 
+![Credit card Thumbnail](https://github.com/RavinaKarnik/Credit-Card-Approval-Prediction-with-Enhanced-Accuracy-using-Machine-Learning-Models/assets/130289037/23e55c90-c0bc-43e4-b0a9-a14852a4e79f)
+
+
 The project focuses on predicting credit card approvals based on customer information, a crucial task for a bank's credit card department. In an era where data-driven decisions are paramount, this project addresses the challenge of acquiring new credit card customers while ensuring creditworthiness.
 
 ## Data Features (Credit_Card.csv):
